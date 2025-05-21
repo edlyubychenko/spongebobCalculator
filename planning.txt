@@ -1,0 +1,7 @@
+
+
+Need a function that displays the value of whatever button has been clicked to the "Display"
+
+Need a function that calculates each opperand that accepts two numbers as parameters and returns the value 
+
+Need a function to clear all values from the display once the clear button is clicked 
