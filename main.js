@@ -1,5 +1,5 @@
 // Place to show calculations
-const display = document.getElementById("display")
+const display = document.getElementById("display");
 // function to show the display 
 function showOnDisplay(input){
     display.value = input;
